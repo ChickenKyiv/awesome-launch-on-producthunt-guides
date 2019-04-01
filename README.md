@@ -9,3 +9,5 @@
 - https://coda.io/t/Guide-to-dominating-Product-Hunt_tNksZ5cl8Zp
 - https://coda.io/t/Betterments-Launch-Marketing-Template_tskehujftcc
 - 
+
+- https://blog.actiondesk.io/how-actiondesk-reached-1600-upvotes-on-product-hunt
