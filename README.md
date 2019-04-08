@@ -3,6 +3,7 @@
 - https://blog.codegiant.io/our-product-hunt-launch-story-5067e2b091fb
 - https://medium.com/@nife/20-lessons-from-20-days-product-challenge-71f24309adfc
 - https://medium.com/swlh/product-hunt-101-how-to-launch-your-product-from-early-idea-to-revenue-c3f01864cdde
+- https://blog.actiondesk.io/the-story-of-a-failed-launch-or-why-were-going-back-to-closed-beta
 
 
 #### Templates
