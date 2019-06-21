@@ -1,4 +1,8 @@
 # awesome-launch-on-producthunt-guides
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-launch-on-producthunt-guides) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-launch-on-producthunt-guides)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
+
 - https://artplusmarketing.com/launch-on-product-hunt-articles-collection-772c60fe41a5
 - https://blog.codegiant.io/our-product-hunt-launch-story-5067e2b091fb
 - https://medium.com/@nife/20-lessons-from-20-days-product-challenge-71f24309adfc
