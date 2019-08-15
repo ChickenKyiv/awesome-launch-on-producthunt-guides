@@ -2,7 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-launch-on-producthunt-guides) 
 
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-launch-on-producthunt-guides)
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" /></p>
 
 - https://artplusmarketing.com/launch-on-product-hunt-articles-collection-772c60fe41a5
@@ -14,6 +15,9 @@
 - https://medium.com/@whizzoe/how-i-launched-on-product-hunt-top-1-and-featured-on-lifehacker-9fba845c4c73
 - https://www.freshworks.com/freshsales-crm/lead-generation/lead-generation-product-hunt-blog
 - https://blog.actiondesk.io/how-actiondesk-reached-1600-upvotes-on-product-hunt
+
+- https://medium.com/@alexcircei/waydev-was-1-product-of-the-day-on-product-hunt-4ad47f6ff6fc
+- https://hackernoon.com/how-product-hunt-help-us-and-become-1-product-of-the-day-sb16i30t1
 
 
 #### Templates
