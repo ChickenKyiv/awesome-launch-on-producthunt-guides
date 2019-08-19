@@ -18,7 +18,7 @@
 
 - https://medium.com/@alexcircei/waydev-was-1-product-of-the-day-on-product-hunt-4ad47f6ff6fc
 - https://hackernoon.com/how-product-hunt-help-us-and-become-1-product-of-the-day-sb16i30t1
-
+- https://www.producthunt.com/posts/relatively-no-frills-ph-launch-checklist
 
 #### Templates
 - https://coda.io/t/Guide-to-dominating-Product-Hunt_tNksZ5cl8Zp
