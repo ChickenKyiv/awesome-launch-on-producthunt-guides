@@ -23,6 +23,7 @@
 - https://www.indiehackers.com/article/we-launched-on-product-hunt-what-we-ve-learned-0dbec33b55
 
 https://www.producthunt.com/posts/product-hunt-launch-kit-by-crello
+https://hackernoon.com/https-medium-com-p-producthuntlaunch-programguide-panks-c4756cfe810f
 
 #### Coda Templates
 - https://coda.io/t/Guide-to-dominating-Product-Hunt_tNksZ5cl8Zp
