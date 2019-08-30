@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" /></p>
 
-- https://artplusmarketing.com/launch-on-product-hunt-articles-collection-772c60fe41a5
+- https://hackernoon.com/launch-on-product-hunt-articles-collection-2w7d430w8
 - https://blog.codegiant.io/our-product-hunt-launch-story-5067e2b091fb
 - https://medium.com/@nife/20-lessons-from-20-days-product-challenge-71f24309adfc
 - https://medium.com/swlh/product-hunt-101-how-to-launch-your-product-from-early-idea-to-revenue-c3f01864cdde
@@ -21,6 +21,8 @@
 - https://www.producthunt.com/posts/relatively-no-frills-ph-launch-checklist
 
 - https://www.indiehackers.com/article/we-launched-on-product-hunt-what-we-ve-learned-0dbec33b55
+
+https://www.producthunt.com/posts/product-hunt-launch-kit-by-crello
 
 #### Coda Templates
 - https://coda.io/t/Guide-to-dominating-Product-Hunt_tNksZ5cl8Zp
